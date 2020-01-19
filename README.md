@@ -1,5 +1,7 @@
 # PharmaCite-
-pharmacy managment system in asp.net mvc
+a simple pharmacy managment system in asp.net mvc for DBA
+
+this project uses mysql for the database
 
 We have:
   1.User - buy medicine(s) from pharmacy
